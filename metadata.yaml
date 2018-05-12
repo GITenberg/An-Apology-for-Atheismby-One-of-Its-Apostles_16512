@@ -1,0 +1,37 @@
+_repo: An-Apology-for-Atheismby-One-of-Its-Apostles_16512
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Southwell, Charles
+    birthdate: 1814
+    deathdate: 1860
+    gutenberg_agent_id: '6203'
+    url: http://www.gutenberg.org/2009/agents/6203
+description: It would be absurd to doubt that religion has an important bearing on
+  all the relations and conditions of life. The connexion between religions faith
+  and political practice is, in truth, far closer than is generally thought. Public
+  opinion has not ripened into a knowledge that religious error is the intangible
+  but real substratum of all political injustice. Though the 'schoolmaster' has done
+  much, there still remain and hold some away among us, many honest and energetic
+  assertors of 'the rights of man, ' who have to learn that a people in the fetters
+  of superstition, can never achieve political.
+gutenberg_issued: '2005-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atheism'
+- !lcc 'BL'
+title: 'An Apology for Atheism
+
+  Addressed to Religious Investigators of Every Denomination
+
+  by One of Its Apostles'
+url: http://www.gutenberg.org/ebooks/16512
